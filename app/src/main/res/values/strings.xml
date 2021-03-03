@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fetch Jokes From API</string>
+    <string name="jokes_list">Jokes List</string>
+    <string name="jokes_details">Jokes Details</string>
+    <string name="download">A</string>
+    <string name="jokes">jokes</string>
+    <string name="category">Category</string>
+    <string name="date_created">Date Created</string>
+    <string name="icon_url">Icon Url</string>
+    <string name="date_updated">Date Updated</string>
+    <string name="image_url">Image Url</string>
+    <string name="value">Value</string>
+</resources>
